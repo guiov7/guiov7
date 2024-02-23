@@ -1,114 +1,106 @@
-<h1 style="color: #46d7aa; font-weight: bold;"> Hi <img src=https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif alt="hello hand" width="70"><br>I'm Guiovany</h1>
+### Hi !  
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" align="left" height="35px" width="" />  
+  
 
 
-<div style="font-size: 48px; padding: 5px;" class="my-h2"> 
-  Dev Full Stack 
-    <span id="js">Javascript </span>
-     | <span id="jv">Java</span> | 
-    <span id="ang">Angular</span>
-</div>
 
+### I'm Guiovany  
+### <div align="center">DEV Fullstack Javascript | Java |  Angular </div>  
+  
 Working and studying IT contents since 2021, today work in other department, but I warrant to give my best on my first back-End dev opportunity. Now I stay focused on learning by courses and a lot of hands-on projects, my actual focus is Angular framework for front-end and nodeJs for back-End operations - (my final plan is Java and with lifelong learning, I'll get there)
 
 *   🌍  I'm based in Ponta Grossa, PR - Brazil
-*   ✉️  You can contact me at [guio.developer@gmail.com](mailto:guio.developer@gmail.com)
 *   🤝  I'm open to collaborating on Startups | BigTechs | Freelancer Jobs
 
-<br>
-<div style="display: flex; width: 100%;">
+🔎 I’m currently working on [Github Project](https://github.com/guiov7/activities)  
+  
 
-  <div style=" display: flex; flex-diretion: column; gap: 5px; width=20%; " >
-  <img src=https://em-content.zobj.net/source/noto-emoji-animations/344/rocket_1f680.gif alt="rocket" width="75" height="85">
+🌨️ I’m currently learning AWS Cloud Computing to get Pratictioner Certification 🌥️  
+  
 
-  ### Skills 
-  </div>
+👾 I'm ready to show my knowledgments about technology 👾  
+  
 
-  <div style="display: flex; width=60%; >
+🤣 Fun fact: I use bash when are not necessary just for play    
+  
 
-   <p style=" padding: 15px; gap: 13px; margin-left: 15px; background: #fff; border: 5px solid #74b6c3; border-radius: 15px;">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-    </a>
-    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-    </a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-    </a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-    </a>
-    <a href="https://angular.io/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-    </a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-    </a
-    >
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-    </a>
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-    </a>
-      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">  
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" />  
-      </a>
-      <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
-      </a>
-   </p>
-  </div>
+<br/>  
+
+
+## Skills <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/rocket_1f680.gif" align="left" height="35px" width="" />
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center" style="background-color: #fff; border-radius: 15px; padding: 0 3px 3px 3px;" >
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
 
-<div style="display: flex; width: 60%; border: 2px solid #74b6c3; padding: 25px; ">
-  <div style="display: flex; align-items: center; height: 200px; flex-direction: column; border-radius: 15px; background-color: #fff; padding: 15px;">
-  <p>
-  <span style="color: #282828; font-size: 28px; font-weight: bold;">
-    Socials
-  </span>
+</td><td valign="top" width="33%">
 
-  <a href="https://www.github.com/guiov7" target="_blank" rel="noreferrer">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/  main/public/icons/socials/github-dark.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/  readme-generator/main/public/icons/socials/github.svg" />
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"  width="60" height="60" />
-      </picture>
-    </a>
-    <a href="https://www.linkedin.com/in/guiovany-da-luz-552256137/" target="_blank" rel="noreferrer">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/  main/public/icons/socials/linkedin-dark.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/  readme-generator/main/public/icons/socials/linkedin.svg" />
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"  width="60" height="60" />
-      </picture>
-    </a>
-  </p>
-  </div>
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 25px; padding: 0 15px;" >
 
-  ### Github Stats
-   <a href="http://www.github.com/guiov7">
-        <img src="https://github-readme-stats.vercel.app/api?username=guiov7&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=trueshow_icons=true" alt="guiov7's GitHub stats" />
-    </a>
-    </span>
-    <span>
-    <a href="http://www.github.com/guiov7">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=guiov7&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffffdates=ffffff&hide_border=true" />
-    </a>
-    </span> 
-  </div>
-
+### Backend  
+<div align="center" style="background-color: #fff; border-radius: 15px; padding: 0 3px 3px 3px;" >  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="50" height="50" alt="NodeJS" /></a> 
+<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center" style="background-color: #fff; border-radius: 15px; padding: 0 3px 3px 3px;>   
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="50" height="50" alt="Amazon Web Services" /></a>
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/guiov7" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/guiovany-da-luz-552256137/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=guiov7&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
