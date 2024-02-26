@@ -12,7 +12,7 @@ Working and studying IT contents since 2021, today work in other department, but
 *   🌍  I'm based in Ponta Grossa, PR - Brazil
 *   🤝  I'm open to collaborating on Startups | BigTechs | Freelancer Jobs
 
-🔎 I’m currently working on [Github Project](https://github.com/guiov7/activities)  
+🔎 I’m currently working on [Github Project](https://github.com/guiov7/angular-blog)  
   
 
 🌨️ I’m currently learning AWS Cloud Computing to get Pratictioner Certification 🌥️  
